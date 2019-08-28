@@ -1,0 +1,553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>	Quake Wars League</title>
+		<meta name="description" content="Quake Wars League is a league and community site dedicated to Splash Damages Enemy Territory: Quake Wars." />
+        <meta name="keywords" content="quakewars, et:qw, enemy territory quake wars, quake wars screenshots, quake wars beta, quake wars maps, Wolfenstein, id software, splash damage, league, ladders" />
+        <meta name="robots" content="index, follow" />
+        <base href="http://www.quakewarsleague.com/" />
+		<link rel="stylesheet" type="text/css" href="http://www.quakewarsleague.com/html/templates/qwl/style.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.quakewarsleague.com/html/templates/qwl/header6.css" />
+		<script type="text/javascript" src="http://www.quakewarsleague.com/html/js/functions.js"></script>
+		<script type="text/javascript" src="http://www.quakewarsleague.com/html/js/prototype.js"></script>
+	</head>
+		<body>
+			<div align="center">
+			<table class="main_table" style="width: 990px;" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td class="topbar" colspan="3">
+				<a href="http://www.i3d.net/quake-wars.php?ref=1499" class="topbar" target="_blank">Powered by i3D</a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3" class="header">
+					</td>				
+				</tr>
+				<tr>
+					<td class="navbar_left">
+					</td>
+					<td class="navbar"> 
+						<table>
+							<tr>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/" class="navbar">Home</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/forums/" class="navbar">Forums</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/news/" class="navbar">News</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/poll/" class="navbar">Polls</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/cup/" class="navbar">Cups</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/review/" class="navbar">Reviews</a> 
+								</td>
+								<td class="navbar_item"> 
+									<a href="http://www.quakewarsleague.com/html/blog/" class="navbar">Blogs</a> 
+								</td>
+								<td class="navbar_item">
+									<a href="http://www.quakewarsleague.com/html/gallery/" class="navbar">Gallery</a>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td class="navbar_right">
+					</td>
+									</tr>
+				<tr>
+					<td colspan="3" class="sub_header" style="height: 15px;">
+						
+					</td>
+				</tr>
+					<td class="menu_content_left" width="170">
+						
+<table border="0" cellspacing="0" cellpadding="0" width="140" align="center">
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="10">
+		</td>
+	</tr>
+	
+	<td class="">
+			<div class="banner">
+<a href="http://www.i3d.net/quake-wars.php?ref=1499" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/i3d_gameservers.jpg"  border="0" align="middle" /></a>			</div>
+			<div class="banner">
+<a href="http://www.hypernia.net" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/Hypernia_140_50.jpg"  border="0" align="middle" /></a>			</div>
+	</td>
+
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="7">
+		</td>
+	</tr>
+</table><table border="0" cellspacing="0" cellpadding="0" width="140" align="center">
+	<tr>
+		<td class="r_menutable_top" height="40">
+			<a class="r_menutable_header">Active Cups</a>
+		</td>
+	</tr>
+				
+			<tr>
+				<td class="l_menutable_middle">
+					<div class="menu_main">
+						<a href="http://www.quakewarsleague.com/html/cup/1" class="menu_head">Euro Open Beta</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/info/1/about/" class="menu">About</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/info/1/rules/" class="menu">Rules</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/registrations/1" class="menu">Registrations (16/16)</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/poules/1" class="menu">Poules</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/matches/1" class="menu">Matches</a>
+						<br />
+					</div>
+				</td>
+			</tr>
+						
+			<tr>
+				<td class="l_menutable_middle">
+					<div class="menu_main">
+						<a href="http://www.quakewarsleague.com/html/cup/2" class="menu_head">N.America Open Beta</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/info/2/about/" class="menu">About</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/info/2/rules/" class="menu">Rules</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/registrations/2" class="menu">Registrations (16/16)</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/poules/2" class="menu">Poules</a>
+						<br />
+						<a href="http://www.quakewarsleague.com/html/cup/matches/2" class="menu">Matches</a>
+						<br />
+					</div>
+				</td>
+			</tr>
+				<tr>
+		<td class="l_menutable_bottom"  height="20">
+		</td>
+	</tr>
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="7">
+		</td>
+	</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="140" align="center">
+	
+	<tr>
+	<td class="r_menutable_top" height="40">
+	<a class="r_menutable_header">Quake Wars</a></td>
+	</tr>
+	<td class="l_menutable_middle">
+			<div class="menu_main">
+				<a href="http://www.quakewarsleague.com/html/page/2/" class="menu">FAQ</a>
+				<br />
+				<a href="http://www.quakewarsleague.com/html/gallery/2/" class="menu">Classes</a>
+				<br />
+				<a href="http://www.quakewarsleague.com/html/gallery/3/" class="menu">Vehicles</a>
+				<br />
+				<a href="http://www.quakewarsleague.com/html/gallery/4/" class="menu">Deployables</a>
+				<br />
+				<a href="http://www.quakewarsleague.com/html/gallery/" class="menu">Image gallery</a>
+			</div>
+	</td>
+	</tr>
+
+     <tr>
+		<td class="l_menutable_bottom"  height="20">
+		</td>
+	</tr>
+	
+		<tr>
+		<td class="menutable_bottom_right" colspan="3" height="7">
+		</td>
+	</tr>
+
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="140" align="center">
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="10">
+		</td>
+	</tr>
+	
+	<td class="l_menutable_middle">
+			<div class="">
+<a href="http://4newbies.planetwolfenstein.gamespy.com/ETQW/index.php" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/ETQW4N_small_logo.jpg"  border="0" align="middle" /></a>			</div>
+	</td>
+
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="7">
+		</td>
+	</tr>
+</table>					</td>
+					
+							
+					<td width="560" class="main_content" align="center">
+						<!-- Begin main content -->
+<table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						Quake Wars Team Dignitas Interviewed					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/2" class="userlink">GlobalWar (Admin)</a> - Friday 6 July 2007, 22:46					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			We had the chance to talk to the brand new Quake Wars squad of Team Dignitas which signed up at QWL and is participating in the QWL Open Beta Euro Cup.<br />
+<br />
+<a href="http://www.team-dignitas.org" target="_blank" class="link"><a href="http://www.quakewarsleague.com/html/image.php?id=106" class="image" target="_blank"><img src="http://www.quakewarsleague.com/html/image.php?id=106" class="ubb" /></a></a><br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/16" class="link">Read more</a>, <a href="http://www.quakewarsleague.com/html/news/16#comments" class="link">Comments (8)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						Cups Started					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/3" class="userlink">Deacon (Admin)</a> - Thursday 5 July 2007, 11:24					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Both Euro and N.A. cups have been started, closed servers SHOULD arrive any day now. Please start arranging your matches through the Clan Menu options. Anyone needing help with this please contact me. You can find us in Quakenet #qwl..*note First round matches should be played by July 11th Wednesday.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/15#comments" class="link">Comments (2)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						New Client Update coming					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/116" class="userlink">bz$_</a> - Sunday 1 July 2007, 12:55					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Yesterday SD's Badman stated that a small client update will be released this week. Numerous changes have been made including the ever-commented Hit Prediction!<br />
+<br />
+Read more on the official ET:QW Community site.<br />
+<br />
+<b>source</b>: <a href="http://community.enemyterritory.com/index.php?q=node/72" target="_blank" class="link"> click</a><br />
+<br />
+Update: Patch is released. When starting the game it should automatically download the patch.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/14#comments" class="link">Comments (2)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						North American Beta Cup					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/3" class="userlink">Deacon (Admin)</a> - Friday 29 June 2007, 17:48					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			There will be a captains meeting Sunday July 1st at 9pm EST. All team captains should attend (and any clan members who also want to join) The meeting will be held in irc pm QWL|Deacon in Qnet #qwl for more info ( We have a captins irc channel set up for you )<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/13#comments" class="link">Comments (1)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						Shoutcaster iTG`Django Joins QWL					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/2" class="userlink">GlobalWar (Admin)</a> - Wednesday 27 June 2007, 22:27					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Whats a cup without a good shoutcaster? Nothing of course.<br />
+Exciting matches need exciting commentaries to become even more exciting.<br />
+<br />
+There for I am proud to announce iTG`Django is going to shoutcast for us.<br />
+<br />
+If you want to know more about iTG`Django, read more.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/12" class="link">Read more</a>, <a href="http://www.quakewarsleague.com/html/news/12#comments" class="link">Comments (2)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						Signing up for all!					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/116" class="userlink">bz$_</a> - Wednesday 27 June 2007, 19:25					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			After having a very long discussion with loads of pizza and beers; we at QWL decided that anyone who wants to sign up his or her clan, should get that opportunity!<br />
+<br />
+For now we no longer desire a Clan website or at least a properly working one. However.. In the future, we will go back to our original point of view. But that is of later concern. <img src="http://www.quakewarsleague.com/html/images/smilies/smile.gif" alt=":)" title=":)" /><br />
+<br />
+If you want to sign up to participate in any Cup or to simply register at QWL: feel free to do so!<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/11#comments" class="link">Comments (0)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						NA ET:QW beta cup					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/3" class="userlink">Deacon (Admin)</a> - Wednesday 27 June 2007, 09:11					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			QWL presents another ET:QW open beta cup event , this time in the North American arena. <br />
+Teams of 6v6 will have access to lockable servers for their games . Number of teams will be a maximum of 16. <br />
+<br />
+<a href="http://www.quakewarsleague.com/html/cup/2/" target="_blank" class="link">Sign your clan up now</a> and visit us in Quakenet #QWL for more details. <br />
+Team leaders can sign up via the Clan Management menu.<br />
+<br />
+On another note we still have several FREE ET:QW beta keys to be givin out in various contests on the website and the irc lobby.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/10#comments" class="link">Comments (0)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						ET:QW hits Quakecon !					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/3" class="userlink">Deacon (Admin)</a> - Wednesday 27 June 2007, 05:52					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Quakecon the biggest fps event for any id related game runs the first week of august every year. This year they'll have an ET:QW 32 team event.<br />
+(posted @ http://www.esreality.com)<br />
+<br />
+Enemy Territory: QUAKE Wars:<br />
+Enemy Territory: QUAKE Wars makes its tournament debut at QuakeCon 2007. 32 teams will compete in the incredible battles between Earth’s Global Defense Force (GDF) and the invading alien Strogg. Each 6-person team will battle it out in a double-elimination bracket-style tournament, with each team having the opportunity to both attack and defend. With a focus on objective and class-based gameplay, Enemy Territory: QUAKE Wars will test each team’s ability to combine skill, strategy, and teamwork in tournament play like never before.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/9#comments" class="link">Comments (2)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						QWL Blog					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/2" class="userlink">GlobalWar (Admin)</a> - Tuesday 26 June 2007, 23:15					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Did you guys notice our blog section yet?<br />
+<br />
+Madhaha has done some nice blogs on his experiences in the Open Beta.<br />
+<br />
+If you like to make a blog you can do that also of course.<br />
+<br />
+<a href="http://www.quakewarsleague.com/html/blog/" target="_blank" class="link">Blog</a><br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/8#comments" class="link">Comments (0)</a></td></tr></table>		</td>
+	</tr>
+</table><br /><table class="table">
+	<tr>
+		<td class="content_head">
+			<table class="inline">
+				<tr>
+					<td class="content_title">
+						TheRedstuff Gives Away Keys					</td>
+					<td class="content_buttons">
+											</td>
+				</tr>
+				<tr>
+					<td class="content_subtitle">
+						Posted by: <a href="http://www.quakewarsleague.com/html/user/2" class="userlink">GlobalWar (Admin)</a> - Tuesday 26 June 2007, 21:44					</td>
+					<td class="content_category">
+						<a href="http://www.quakewarsleague.com/html/game/0" class="link"></a>					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="content_body">
+			Check this out! <br />
+<br />
+<a href="http://www.theredstuff.com/" target="_blank" class="link">TheRedstuff</a> has some gold dust on the web site.<br />
+<br />
+Somehow he has kept behind some VIP keys for the Open Beta and is giving them away NOW.<br />
+<br />
+So quick sign up and claim a key before someone else beats you to it.<br /><table class="inline"><tr><td align="right"><a href="http://www.quakewarsleague.com/html/news/7#comments" class="link">Comments (0)</a></td></tr></table>		</td>
+	</tr>
+</table><br />
+						<!-- Einde main content -->
+					</td>
+					
+					
+					
+					
+					
+					<td class="menu_content_right" width="260" height="1">
+					
+						<link href="/httpdocs/html/templates/qwl/style.css" rel="stylesheet" type="text/css" />
+
+<table border="0" cellspacing="0" cellpadding="0" width="225" align="center">
+	
+	<tr>
+	<td class="r_menutable_top" height="40">
+	<a class="r_menutable_header">Personal Menu</a></td>
+	</tr>
+	<td class="r_menutable_middle">
+		<div class="menu_main">
+			
+				  Welcome <b>Guest</b>				  <br />
+  				  <br />
+				  				  <a href="http://www.quakewarsleague.com/html/login/" class="menu">Log in</a>
+				  <br />
+				  <a href="http://www.quakewarsleague.com/html/register/" class="menu">Register</a>
+				  <br />
+				  <a href="http://www.quakewarsleague.com/html/passwordlost/" class="menu">I lost my password!</a>
+				  	
+
+		</div>		
+	</td>
+	</tr>
+
+     <tr>
+		<td class="r_menutable_bottom"  height="20">
+		</td>
+	</tr>
+</table><table border="0" cellspacing="0" cellpadding="0" width="245" align="center">
+	<tr>
+		<td  height="20">
+			<div class="menu_main" align="center">
+            <a href="http://www.tgbf.tv/" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/TGBF.jpg"  border="0" /></a>			</div>
+						<div class="menu_main" align="center">
+            <a href="http://www.game-tv.com/" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/GAMETV.jpg"  border="0" /></a>			</div>
+		
+	</tr>
+	<tr>
+		<td class="menutable_bottom_right" colspan="3" height="7">
+		</td>
+	</tr>
+
+</table>					
+					</td>
+				</tr>
+				<tr>
+					<td class="footer" colspan="3" height="20">
+							<a href="" class="footbar" target="_blank"> © Copyright 2006-2007 QuakeWarsLeague.com. All rights reserved.</a>
+					</td>
+				</tr>
+				<tr>
+					<td class="" colspan="3" height="50">
+							<a href="" class="footbar" target="_blank"> © Copyright 2006-2007 QuakeWarsLeague.com. All rights reserved.</a>
+					</td>
+				</tr>
+								
+			<table width="600" border="0" align="center">
+  			<tr>
+    		<td width="172"><div align="center" class="officialsites">A GAME BY : </div></td>
+    		<td width="204"><div align="center" class="officialsites">DEVELOPED BY:</div></td>
+    		<td width="210"><div align="center" class="officialsites">PUBLISHED BY: </div></td>
+  			</tr>
+  			<tr>
+    		<td><div align="center"><a href="http://www.idsoftware.com/" target="_blank"><img src=		"http://www.quakewarsleague.com/html/templates/qwl/banners/id_black_logo.png"  height="68" border="0" /></a></div></td>
+    		<td><div align="center"><a href="http://www.splashdamage.com/" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/Splash_Damage_Logo.png"  height="68" border="0" /></a></div></td>
+    		<td><div align="center"><a href="http://www.activision.com" target="_blank"><img src="http://www.quakewarsleague.com/html/templates/qwl/banners/ATVI_Black_Logo.png" height="50" border="0" /></a></div></td>
+  			</tr>
+			</table>	
+			
+			</table>
+		</div>
+		
+		
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-999978-3";
+urchinTracker();
+</script>
+		
+	</body>
+</html>
+
